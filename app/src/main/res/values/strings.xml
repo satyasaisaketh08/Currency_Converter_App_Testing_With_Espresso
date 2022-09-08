@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Money Converter Application</string>
+    <string name="pound_to_rupee">Pound to Rupee</string>
+    <string name="type_here_to_convert">Type here to convert…</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="rupee_to_dollar">Rupee to Dollar</string>
+    <string name="dollar_to_rupee">Dollar to Rupee</string>
+    <string name="rupee_to_pound">Rupee to Pound</string>
+    <string name="todo">TODO</string>
+    <string name="developers_contact">Developers Contact</string>
+    <string name="settings">Settings</string>
+    <string name="email">Email: sakethmaturi@gmail.com</string>
+    <string name="email1">Email: satya.matury.19cse@bmu.edu.in</string>
+    <string name="name">Name: Satya Sai Saketh Matury</string>
+    <string name="address">Address: BML MUNJAL UNIVERSITY , GURGAON</string>
+    <string name="request">*for any query or complaints, please let me know through email*</string>
+</resources>
